@@ -1,0 +1,6 @@
+{
+  "name": "采购端后台管理系统",
+  "description": "提供采购工作台、询价管理、订单管理、对账管理、结算管理、售后管理、C端营销、福利采购、个人中心等27个功能子项的全面、精致的采购端后台管理平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
